@@ -1,0 +1,22 @@
+2025-06-20 19:57:22,331 - ERROR - Authentication failed: received 400 HTTP response
+2025-06-20 20:00:01,563 - ERROR - Authentication failed: invalid_grant error processing request
+2025-06-20 20:25:48,445 - ERROR - Authentication failed: invalid_grant error processing request
+2025-06-20 20:28:51,671 - ERROR - Authentication failed: invalid_grant error processing request
+2025-06-20 20:29:56,105 - ERROR - Authentication failed: invalid_grant error processing request
+2025-06-20 20:39:42,760 - INFO - Successfully authenticated as Small_Proposal_3743
+2025-06-20 20:41:44,701 - ERROR - Failed to load Excel file: HTTP Error 401: Unauthorized
+2025-06-20 20:42:46,089 - INFO - Successfully authenticated as Small_Proposal_3743
+2025-06-20 20:43:03,995 - ERROR - Failed to load Excel file: Excel file format cannot be determined, you must specify an engine manually.
+2025-06-20 20:45:08,490 - INFO - Successfully authenticated as Small_Proposal_3743
+2025-06-20 20:45:21,993 - ERROR - Failed to load Excel file: [Errno 13] Permission denied: 'C:\\Users\\markd\\OneDrive\\Desktop\\Reddit test'
+2025-06-20 20:48:12,099 - INFO - Successfully authenticated as Small_Proposal_3743
+2025-06-20 20:49:23,834 - ERROR - Failed to load Excel file: Excel file format cannot be determined, you must specify an engine manually.
+2025-06-20 20:58:57,306 - WARNING - Retrying due to ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='www.reddit.com', port=443): Read timed out. (read timeout=16.0)")) status: GET https://oauth.reddit.com/api/v1/me
+2025-06-20 20:59:00,999 - INFO - Successfully authenticated as Small_Proposal_3743
+2025-06-20 20:59:12,002 - ERROR - Failed to load Excel file: Excel file format cannot be determined, you must specify an engine manually.
+2025-06-20 21:03:59,210 - INFO - Successfully authenticated as Small_Proposal_3743
+2025-06-20 21:04:27,236 - ERROR - Failed to load Excel file: [Errno 13] Permission denied: 'C:\\Users\\markd\\OneDrive\\Desktop\\Reddit test'
+2025-06-20 21:06:29,640 - INFO - Successfully authenticated as Small_Proposal_3743
+2025-06-20 21:06:36,342 - ERROR - Failed to load Excel file: [Errno 13] Permission denied: 'C:\\Users\\markd\\OneDrive\\Desktop\\Reddit test'
+2025-06-20 21:10:42,201 - INFO - Successfully authenticated as Small_Proposal_3743
+2025-06-20 21:10:49,251 - ERROR - Failed to load Excel file: [Errno 13] Permission denied: 'C:\\Users\\markd\\OneDrive\\Desktop\\Reddit test'
